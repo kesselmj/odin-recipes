@@ -1,0 +1,32 @@
+body {
+    font-family: monospace;
+}
+
+.recipeheader,
+.siteheader {
+    color: white;
+    background-color: black;
+    font-size: 42px;
+}
+
+.recipelist,
+.recipelist li {
+    font-size: 20px;
+}
+
+.subheader {
+    color: white;
+    background-color: black;
+    font-size: 32px;
+}
+
+.inglist,
+.steplist,
+.inglist li,
+.steplist li {
+    font-size: 20px;
+}
+
+.description {
+    font-size: 20px;
+}
